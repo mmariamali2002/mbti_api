@@ -1,1 +1,83 @@
+{
+  "ISTJ": {
+    "description": "ISTJs are very organized and like rules. They like things to be clear and simple. They focus on facts and logic more than feelings. They take responsibilities seriously and follow rules. They work quietly and carefully to do things correctly. They like tradition, stability, and consistency. They may seem strict or quiet, but they are loyal and dependable.",
+    "vibe": "Serious, disciplined, grounded, reliable.",
+    "celebrities": "Natalie Portman, Denzel Washington, Cate Blanchett, Anthony Hopkins, Keira Knightley"
+  },
+  "ISFJ": {
+    "description": "ISFJs are gentle and caring. They like helping others quietly. They notice small details that make people feel valued. They want harmony and safety and often put others first. They like stability and tradition. They avoid conflicts and like peace. They feel comforting, calm, and protective to others.",
+    "vibe": "Warm, gentle, nurturing, safe.",
+    "celebrities": "Beyoncé, Selena Gomez, Anne Hathaway, Zendaya, Vin Diesel"
+  },
+  "INFJ": {
+    "description": "INFJs think deeply and want meaning in life. They can easily understand how others feel. They are idealistic and want to make the world better. They like deep conversations instead of small talk. They work quietly and like privacy. They have rich, complex, and visionary inner thoughts. They can seem calm and mystical to others.",
+    "vibe": "Deep, calm, mystical, inspiring.",
+    "celebrities": "Lady Gaga, Nicole Kidman, Björk, Tilda Swinton, Florence Welch"
+  },
+  "INTJ": {
+    "description": "INTJs are smart planners who think about the future. They like complex ideas and systems. They value intelligence, independence, and efficiency. They prefer working alone and dislike unnecessary emotions. They trust their logic and decisions. They can seem distant, but they are focused and purposeful. They are confident and strategic thinkers.",
+    "vibe": "Strategic, intelligent, calm, powerful.",
+    "celebrities": "Christopher Nolan, Stanley Kubrick, Jodie Foster, David Fincher, Keanu Reeves"
+  },
+  "ISTP": {
+    "description": "ISTPs like solving problems and understanding how things work. They stay calm in difficult situations and act fast. They like doing things themselves and learning by experience. They value freedom and dislike being controlled. They are careful observers and logical thinkers. They may be quiet but are confident in their skills.",
+    "vibe": "Cool, quiet, skilled, independent.",
+    "celebrities": "Bruce Lee, Clint Eastwood, Tom Cruise, Scarlett Johansson, Jason Statham"
+  },
+  "ISFP": {
+    "description": "ISFPs are artistic and sensitive. They feel life deeply and enjoy beauty. They live in the moment and follow their feelings. They dislike pressure and strict rules. They express themselves through art, music, or creativity. They value being real and having freedom. They are gentle, emotional, and caring.",
+    "vibe": "Soft, artistic, emotional, romantic.",
+    "celebrities": "Marilyn Monroe, Michael Jackson, Prince, Rihanna, Lana Del Rey"
+  },
+  "INFP": {
+    "description": "INFPs are dreamers who care about values and truth. They want to be authentic and kind. They are creative and enjoy writing or art. They dislike conflict and harsh criticism. They may feel misunderstood but stay loyal to their beliefs. They seek deep feelings and meaningful connections.",
+    "vibe": "Dreamy, emotional, poetic, gentle.",
+    "celebrities": "Johnny Depp, Tim Burton, Kurt Cobain, Björk, Joaquin Phoenix"
+  },
+  "INTP": {
+    "description": "INTPs are curious thinkers who love ideas and theories. They enjoy analyzing complicated topics. They focus on thinking more than emotions. They like being alone and concentrating deeply. They are creative and imaginative. They often question things and like exploring new ideas.",
+    "vibe": "Quiet, intellectual, analytical, abstract.",
+    "celebrities": "Rowan Atkinson, David Bowie, Bill Murray, Ricky Gervais, Benedict Cumberbatch"
+  },
+  "ESTP": {
+    "description": "ESTPs are active and full of energy. They enjoy excitement and new experiences. They take risks and live in the moment. They are confident, bold, and social. They like action more than theory. They dislike routine and boredom. They bring energy and movement wherever they go.",
+    "vibe": "Bold, energetic, fearless, dynamic.",
+    "celebrities": "Madonna, Jack Nicholson, Eddie Murphy, Megan Fox, Chris Pratt"
+  },
+  "ESFP": {
+    "description": "ESFPs are lively and enjoy people. They like being the center of attention. They express their feelings and are spontaneous. They dislike boredom and restrictions. They live in the present moment. They bring fun and excitement to every place. They are warm and expressive.",
+    "vibe": "Fun, joyful, expressive, magnetic.",
+    "celebrities": "Elvis Presley, Britney Spears, Miley Cyrus, Will Smith, Jamie Foxx"
+  },
+  "ENFP": {
+    "description": "ENFPs are creative and enthusiastic. They love ideas and emotions. They enjoy exploring possibilities and inspiring others. They express themselves openly and value being authentic. They dislike strict rules and limits. They are spontaneous, warm, and imaginative. They bring optimism and passion to others.",
+    "vibe": "Energetic, emotional, inspiring, colorful.",
+    "celebrities": "Robin Williams, Walt Disney, Robert Downey Jr., Ellen DeGeneres, Jim Carrey"
+  },
+  "ENTP": {
+    "description": "ENTPs are clever and like new ideas. They enjoy debating and thinking fast. They dislike routine and repetition. They are confident in solving problems and being creative. They are quick thinkers and enjoy challenges. They like to communicate and share ideas. They thrive on learning and exploring new concepts.",
+    "vibe": "Creative, clever, talkative, bold.",
+    "celebrities": "Leonardo da Vinci, Mark Twain, Sacha Baron Cohen, Quentin Tarantino, Taika Waititi"
+  },
+  "ESTJ": {
+    "description": "ESTJs are organized and like clear rules. They are confident and practical. They enjoy leading and making decisions. They value order, discipline, and efficiency. They like to take control and guide others. They are strong and responsible. They are natural leaders.",
+    "vibe": "Strong, commanding, organized, firm.",
+    "celebrities": "Clint Eastwood, John Wayne, Frank Sinatra, Harrison Ford, Arnold Schwarzenegger"
+  },
+  "ESFJ": {
+    "description": "ESFJs are warm and social. They care about people and like harmony. They enjoy helping others and making them feel comfortable. They are emotional and supportive. They value traditions and relationships. They thrive in social environments. They are friendly and caring.",
+    "vibe": "Warm, social, caring, friendly.",
+    "celebrities": "Taylor Swift, Jennifer Lopez, Ariana Grande, Hugh Jackman, Reese Witherspoon"
+  },
+  "ENFJ": {
+    "description": "ENFJs are charismatic and inspire others. They are empathetic and socially aware. They enjoy guiding and motivating people. They value teamwork and harmony. They are emotionally intelligent and expressive. They naturally help others feel confident and happy. They are inspiring and warm leaders.",
+    "vibe": "Inspiring, warm, confident, motivating.",
+    "celebrities": "Oprah Winfrey, Emma Watson, Zendaya, Harry Styles, Bono"
+  },
+  "ENTJ": {
+    "description": "ENTJs are strong and strategic leaders. They focus on success and goals. They enjoy organizing people and systems. They are confident, decisive, and assertive. They value efficiency and logic. They plan for the long term and act boldly. They naturally take charge and lead others.",
+    "vibe": "Powerful, strategic, dominant, confident.",
+    "celebrities": "Steve Jobs, Ridley Scott, Charlize Theron, Steven Spielberg, James Cameron"
+  }
+}
 
